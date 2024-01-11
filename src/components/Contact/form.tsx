@@ -68,11 +68,6 @@ const Form = () => {
           tevesmark9023@gmail.com
         </a>
       </p>
-      <p className="text-sm cursor-pointer text-gray-500 dark:text-gray-400">
-        <a href="tel:+233556844331" className="hover:underline">
-          +233 55 684 4331
-        </a>
-      </p>
     </div>
   );
 };
